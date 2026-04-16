@@ -1,9 +1,9 @@
 import streamlit as st
 import cv2
+import mediapipe as mp
 import json
 import tempfile
 import os
-import sys
 
 # --- INISIALISASI ---
 try:
